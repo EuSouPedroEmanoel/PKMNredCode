@@ -10,3 +10,6 @@ A ideia principal é recriar o clássico game de gameboy por meio de um rpg que 
 ___
 ## LINGUAGENS:
 A unica linguagem que será utilizada será C.
+___
+
+> ### INDICADO PARA USUÁRIOS DE LINUX 
